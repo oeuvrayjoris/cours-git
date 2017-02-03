@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gest
+=======
+feature_1
+>>>>>>> dev
